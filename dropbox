@@ -2,4 +2,12 @@
 
 Potential Deep Dives
 
-Böyük həcmli faylların
+Böyük həcmli faylların tək POST request-i ilə upload edildiyini nəzərə alsaq, bəzi məsələlər müzakirə edilməlidir:
+
+  a) Timeouts
+  b) Browser and Server limitations
+  c) Network interrupts
+  d) User Experience
+
+Timeouts => 
+
